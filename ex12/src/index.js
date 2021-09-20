@@ -1,12 +1,12 @@
 // Only change code below this line
 
-function randnomInteger (){
+function randomInteger (){
 
 return Math.floor(Math.random() * 30);
 
 }
 
 
-randnomInteger ();
+randomInteger ();
 // Only change code above this line 
-module.export = randnomInteger;
+module.export = randomInteger;
