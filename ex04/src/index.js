@@ -6,7 +6,7 @@ function localScope (){
 }
 
 localScope();
-// Only change code aboce this line 
+// Only change code above this line 
 
 // myVariable is not defined outside of localScope
 
