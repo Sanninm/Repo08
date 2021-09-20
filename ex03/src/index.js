@@ -6,7 +6,7 @@ function function1 (){
 }
 
 
-// Write code aboce this line 
+// Write code above this line 
 
 function function2() {
     var result = "";
