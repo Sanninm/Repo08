@@ -4,7 +4,7 @@ function functionPrintInfo (parameter1, parameter2){
 }
 
 module.exports = functionPrintInfo;
-// Write code aboce this line 
+// Write code above this line 
 
 
 
