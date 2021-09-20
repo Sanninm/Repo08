@@ -1,8 +1,8 @@
 // Write code below this line
-var myGlobalVariable = "10";
+var myGlobalVariable = 10;
 
 function function1 (){
-    notGlobalVariable="5";
+    notGlobalVariable=5;
 }
 
 
@@ -11,10 +11,10 @@ function function1 (){
 function function2() {
     var result = "";
     if (typeof myGlobalVariable != "undefined"){
-        result += "myGlobalVariable:" + myGlobalVariable;
+        result += "myGlobalVariable: " + myGlobalVariable;
     }
     if (typeof notGlobalVariable != "undefined"){
-        result += "notGlobalVariable:" + notGlobalVariable;
+        result += " notGlobalVariable: " + notGlobalVariable;
 }
 
 console.log(result);
