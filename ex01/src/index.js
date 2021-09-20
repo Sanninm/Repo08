@@ -5,7 +5,7 @@ function reusableFunction (){
 }
 
 reusableFunction();
-// Write code aboce this line 
+// Write code above this line 
 
 module.exports = reusableFunction;
 
